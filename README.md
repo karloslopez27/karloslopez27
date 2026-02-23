@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Carlos Antonio López
 
 <p align="center">
-  <img src="banner_git.png" alt="Carlos Antonio López Banner" />
+  <img src="banner_git.png" alt="Carlos López Banner" />
 </p>
 
 💻 Senior Backend Developer  
