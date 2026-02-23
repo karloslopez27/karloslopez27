@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Carlos Antonio López
 
+<p align="center">
+  <img src="banner_git.png" alt="Carlos Antonio López Banner" />
+</p>
+
 💻 Senior Backend Developer  
 ☕ Java | Spring Boot | Microservices | Event-Driven Architectures  
 📍 Madrid, Spain  
